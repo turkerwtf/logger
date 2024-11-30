@@ -1,0 +1,22 @@
+{
+  "name": "@turkerssh/logger",
+  "version": "0.0.1",
+  "description": "Beautify your project console!",
+  "main": "src/logger.js",
+  "private": false,
+  "scripts": {
+    "test": "node src/test.js",
+    "format": "prettier --write ."
+  },
+  "keywords": [
+    "log",
+    "logger",
+    "color",
+    "colour"
+  ],
+  "author": "Türker",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
