@@ -1,6 +1,6 @@
 {
   "name": "@turkerssh/logger",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Beautify your project console!",
   "main": "src/logger.js",
   "private": false,
