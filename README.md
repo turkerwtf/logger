@@ -17,4 +17,4 @@ logger.debug({ type: "debug", message: "This is a debug message" });
 ```
 
 ## Check my other projects
-[Check my GitHub!](https://github.com/turkerssh)
+[Check my GitHub!](https://github.com/24turker)
